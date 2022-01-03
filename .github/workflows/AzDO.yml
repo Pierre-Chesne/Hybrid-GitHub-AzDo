@@ -5,7 +5,7 @@ on:
 
 jobs:
 
-  aZdO:
+  aZDO:
     runs-on: ubuntu-latest
 
     steps:
